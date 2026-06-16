@@ -4,7 +4,7 @@
 
 An end-to-end agentic RAG system that automates IT helpdesk triage. The agent searches a knowledge base, drafts step-by-step resolutions, creates ServiceNow tickets, and escalates critical incidents — all driven by natural language.
 
-> **Live demo:** [Hugging Face Spaces link] &nbsp;|&nbsp; **Stack:** Python · Anthropic API · ChromaDB · sentence-transformers · Streamlit
+> **Live demo:** [https://huggingface.co/spaces/Jp4mica17/it-support-agent] &nbsp;|&nbsp; **Stack:** Python · Anthropic API · ChromaDB · sentence-transformers · Streamlit
 
 ---
 
